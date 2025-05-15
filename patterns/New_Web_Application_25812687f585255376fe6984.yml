@@ -2,7 +2,7 @@ schemaVersion: "1.0"
 pattern:
   id: "25812687f585255376fe6984"
   className: "ch.nevis.admin.v4.plugin.nevisproxy.patterns.WebApplicationAccess"
-  name: "New Web Application - not so new"
+  name: "New Web Application - test 15.05.2025"
   properties:
     host:
     - "pattern://00be5af5f7a2001c83b56179"
